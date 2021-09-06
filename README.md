@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MaskedRecruit
+- 👀 I’m interested in ... Developing video games
+- 🌱 I’m currently learning ... how to develop video games
+- 💞️ I’m looking to collaborate on ... any projects where I could get involved in ways that would help me learn
+- 📫 How to reach me ...
